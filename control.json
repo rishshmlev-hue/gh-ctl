@@ -1,7 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-11-18 00:00",
-  "frozen": {},
+  "updated": "2026-11-18 01:00",
+  "frozen": {
+    "7fd4e21f774e": "2611180100"
+  },
   "blocked": [],
   "update": {
     "version": 0,
