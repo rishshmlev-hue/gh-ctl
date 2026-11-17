@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-11-18 01:40",
+  "updated": "2026-11-18 01:55",
   "frozen": {},
   "blocked": [],
   "update": {
-    "version": 1,
-    "title": "גרסה חדשה של ג'נרלס",
-    "text": "יש עדכון חדש למשחק.\nאפשר לקרוא עליו בקישור שלמטה.",
-    "url": "https://example.com/news"
+    "version": 0,
+    "title": "",
+    "text": "",
+    "url": ""
   }
 }
